@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on RAG-based AI <br>👯 I’m looking to collaborate on MERN projects<br>🌱 I’m currently learning MONGODB<br>💬 Ask me about anything
+🔭 I’m currently working on Connector <br>👯 I’m looking to collaborate on MERN projects<br>🌱 I’m currently learning MONGODB<br>💬 Ask me about anything
 
 
 ## 🌐 Socials:
