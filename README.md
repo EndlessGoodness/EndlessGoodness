@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Connector, a backend-oriented social media website using Node.js**
 
-- 🌱 I’m currently learning **MONGODB**
+- 🌱 I’m currently learning **AI MODELLING**
 
-- 👯 I’m looking to collaborate on **Full Stack Projects**
+- 👯 I’m looking to collaborate on **something INNOVATIVE**
 
 - 📫 How to reach me **surya2005sngh@gmail.com**
 
